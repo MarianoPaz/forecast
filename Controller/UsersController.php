@@ -17,6 +17,7 @@ public function login()
 
 public function dashboard()
 {
+	$this->layout="default";
 	
 }
 
